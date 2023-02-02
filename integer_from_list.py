@@ -1,4 +1,6 @@
-# I have written a function that takes a list of integers as an input and returns the integers joined together as a larger number (assuming that the list of integers are all single digit)
+# I have written a function that takes a list of integers as an input and returns the integers joined together as a larger number
+# (assuming that the list of integers are all single digit)
+
 def integer_from_list(integerList):
     orderOfMagnitude = len(integerList)-1
     finalInteger = 0
